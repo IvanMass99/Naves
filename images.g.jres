@@ -1,0 +1,22 @@
+{
+    "image2": {
+        "data": "hwQIAAgAAAAAAAAAAEAEAABURQBAVVUEQFVVBABURQAAQAQAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "bullet"
+    },
+    "image3": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALu7AAAAAACwIgsAAAAAACsysgsAAAAAKzIjsgAAAAArMiOyAAAAACsysgsAAAAAsCILAAAAAAAAu7sAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "ene"
+    },
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALu7AAAAAAAAsHcLAAAAALB7f7cAAAAAe/d/twAAAAB793+3AAAAALB7f7cAAAAAALB3CwAAAAAAu7sAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "jugador"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
